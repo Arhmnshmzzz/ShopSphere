@@ -1,0 +1,2 @@
+# ShopSphere
+MERN STACK Project
